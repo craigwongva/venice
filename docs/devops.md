@@ -22,7 +22,7 @@
 
   ```
     cf login -a https://api.devops.geointservices.io
-    # Note: for `email`, use your LDAP username
+    # Note: for `email`, use your GEOINT Services LDAP username
     cf target -o piazza -s simulator-dev
   ```
 
